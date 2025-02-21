@@ -1,3 +1,7 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Developed by Brian Hutton ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 .include "consts.inc"
 .include "header.inc"
 .include "reset.inc"
